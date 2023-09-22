@@ -1,6 +1,6 @@
 # TODO_App
- 
-Application Name: To-Do
+
+**Application Name: To-Do**
 
 **Description:**
 
