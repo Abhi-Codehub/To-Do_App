@@ -1,7 +1,7 @@
 # TODO_App
  
 To-Do List App
-Description:
+
 Introduction:
 The To-Do List App with SQLite Database Storage is a powerful and user-friendly application designed to help individuals organize their tasks and manage their daily activities efficiently. It offers a comprehensive set of features for creating, updating, and tracking tasks, all backed by a robust SQLite database for data storage and retrieval.
 
